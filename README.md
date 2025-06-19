@@ -1,5 +1,5 @@
 # Bookshelf API - Dicoding Submission
-This repository contains the submission project for "Belajar Membuat Aplikasi Back-End untuk Pemula" provided by Dicoding.
+This repository contains the submission project for "Belajar Back-End Pemula dengan JavaScript" provided by Dicoding.
 The project implements a fully functional Bookshelf API with complete CRUD operations and validation.
 
 ## Technologies Used
@@ -49,3 +49,5 @@ Successfully completed with a 5/5 stars rating on Dicoding.
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
+# License
+This project is part of a submission for Dicoding’s "Belajar Back-End Pemula dengan JavaScript" course.
