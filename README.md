@@ -41,6 +41,20 @@ For development with nodemon:
 npm run start-dev
 ```
 
+## Project Structure
+```plaintext
+submission-bookshelf-api/
+├── BookshelfAPITestCollectionAndEnvironment   # Postman collection & environment (optional)
+├── src/                                       # Source code folder
+│   ├── books.js                               # In-memory data storage (array of books)
+│   ├── handler.js                             # Handler functions for API routes
+│   ├── routes.js                              # Route definitions
+│   └── server.js                              # Main server file (entry point)
+├── package.json                               # Project configuration & scripts
+├── package-lock.json                          # Auto-generated dependency lock file
+└── README.md                                  # Documentation
+```
+
 ## Certificate
 Successfully completed with a 5/5 stars rating on Dicoding.
 
