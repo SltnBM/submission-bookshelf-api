@@ -25,13 +25,11 @@ git clone https://github.com/SltnBM/submission-bookshelf-api.git
 ```bash
 cd submission-bookshelf-api
 ```
-
-Install dependencies:
+3. Install dependencies:
 ```bash
 npm install
 ```
-Start the application:
-
+4. Start the application:
 ```bash
 npm run start
 ```
