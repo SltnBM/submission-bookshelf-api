@@ -42,3 +42,6 @@ For development with nodemon:
 ```bash
 npm run start-dev
 ```
+
+## Certificate
+Successfully completed with a 5/5 stars rating on Dicoding.
