@@ -2,6 +2,9 @@
 This repository contains the submission project for "Belajar Back-End Pemula dengan JavaScript" provided by Dicoding.
 The project implements a fully functional Bookshelf API with complete CRUD operations and validation.
 
+![Dicoding](https://img.shields.io/badge/Dicoding-Completed-blue?logo=dicoding&style=flat-square)
+![Rating](https://img.shields.io/badge/Rating-4/5★-brightgreen?style=flat-square)
+
 ## ⚙️ Technologies Used
 - JavaScript (ES6+)
 - Node.js
