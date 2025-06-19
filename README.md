@@ -45,3 +45,7 @@ npm run start-dev
 
 ## Certificate
 Successfully completed with a 5/5 stars rating on Dicoding.
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
