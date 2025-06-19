@@ -1,13 +1,13 @@
-# Bookshelf API - Dicoding Submission
+# 📚 Bookshelf API - Dicoding Submission
 This repository contains the submission project for "Belajar Back-End Pemula dengan JavaScript" provided by Dicoding.
 The project implements a fully functional Bookshelf API with complete CRUD operations and validation.
 
-## Technologies Used
+## ⚙️ Technologies Used
 - JavaScript (ES6+)
 - Node.js
 - nanoid (nanoid@3)
 
-## Features
+## ✨ Features
 - Add new books
 - View list of books
 - View detailed book information
@@ -15,6 +15,20 @@ The project implements a fully functional Bookshelf API with complete CRUD opera
 - Delete books
 - Data validation & error handling
 - Real-time timestamps for each book entry
+
+## 📁 Project Structure
+```plaintext
+submission-bookshelf-api/
+├── BookshelfAPITestCollectionAndEnvironment   # Postman collection & environment (optional)
+├── src/                                       # Source code folder
+│   ├── books.js                               # In-memory data storage (array of books)
+│   ├── handler.js                             # Handler functions for API routes
+│   ├── routes.js                              # Route definitions
+│   └── server.js                              # Main server file (entry point)
+├── package.json                               # Project configuration & scripts
+├── package-lock.json                          # Auto-generated dependency lock file
+└── README.md                                  # Documentation
+```
 
 ## ▶️ How to Run
 1. Clone the repository
@@ -41,25 +55,11 @@ For development with nodemon:
 npm run start-dev
 ```
 
-## Project Structure
-```plaintext
-submission-bookshelf-api/
-├── BookshelfAPITestCollectionAndEnvironment   # Postman collection & environment (optional)
-├── src/                                       # Source code folder
-│   ├── books.js                               # In-memory data storage (array of books)
-│   ├── handler.js                             # Handler functions for API routes
-│   ├── routes.js                              # Route definitions
-│   └── server.js                              # Main server file (entry point)
-├── package.json                               # Project configuration & scripts
-├── package-lock.json                          # Auto-generated dependency lock file
-└── README.md                                  # Documentation
-```
-
-## Certificate
+## 📜 Certificate
 Successfully completed with a 5/5 stars rating on Dicoding.
 
-## Connect with Me
+## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
-# License
+# 📄 License
 This project is part of a submission for Dicoding’s "Belajar Back-End Pemula dengan JavaScript" course.
