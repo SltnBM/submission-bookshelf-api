@@ -18,16 +18,16 @@ The project implements a fully functional Bookshelf API with complete CRUD opera
 
 ## 📁 Project Structure
 ```plaintext
-submission-bookshelf-api/
-├── BookshelfAPITestCollectionAndEnvironment   # Postman collection & environment (optional)
-├── src/                                       # Source code folder
-│   ├── books.js                               # In-memory data storage (array of books)
-│   ├── handler.js                             # Handler functions for API routes
-│   ├── routes.js                              # Route definitions
-│   └── server.js                              # Main server file (entry point)
-├── package.json                               # Project configuration & scripts
-├── package-lock.json                          # Auto-generated dependency lock file
-└── README.md                                  # Documentation
+📂 submission-bookshelf-api/
+├── 📂 BookshelfAPITestCollectionAndEnvironment   # Postman collection & environment (optional)
+├── 📂 src/                                       # Source code folder
+│   ├── 📄 books.js                               # In-memory data storage (array of books)
+│   ├── 📄 handler.js                             # Handler functions for API routes
+│   ├── 📄 routes.js                              # Route definitions
+│   └── 📄 server.js                              # Main server file (entry point)
+├── 📄 package.json                               # Project configuration & scripts
+├── 📄 package-lock.json                          # Auto-generated dependency lock file
+└── 📄 README.md                                  # Documentation
 ```
 
 ## ▶️ How to Run
