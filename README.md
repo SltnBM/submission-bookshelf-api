@@ -56,7 +56,8 @@ npm run start-dev
 ```
 
 ## 📜 Certificate
-Successfully completed with a 5/5 stars rating on Dicoding.
+Successfully completed with a ⭐ 4/5 stars rating on Dicoding.
+🎖️ [View Certificate](https://www.dicoding.com/certificates/1RXYEK2LKZVM)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
