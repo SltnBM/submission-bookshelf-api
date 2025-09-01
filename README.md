@@ -3,7 +3,6 @@ This repository contains the submission project for "Belajar Back-End Pemula den
 The project implements a fully functional Bookshelf API with complete CRUD operations and validation.
 
 ![Dicoding](https://img.shields.io/badge/Dicoding-Completed-blue?logo=dicoding&style=flat-square)
-![Rating](https://img.shields.io/badge/Rating-4/5★-brightgreen?style=flat-square)
 
 ## ⚙️ Technologies Used
 - JavaScript (ES6+)
@@ -59,7 +58,8 @@ npm run start-dev
 ```
 
 ## 📜 Certificate
-Successfully completed with a ⭐ 4/5 stars rating on Dicoding.
+Successfully completed the "Belajar Back-End Pemula dengan JavaScript" course on Dicoding.
+
 🎖️ [View Certificate](https://www.dicoding.com/certificates/1RXYEK2LKZVM)
 
 ## 🤝 Connect with Me
